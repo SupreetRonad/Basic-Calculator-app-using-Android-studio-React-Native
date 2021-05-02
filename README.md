@@ -8,4 +8,7 @@ Steps to run:
   2. Create a project in Android studio.
   3. place "Main_Activity.java" in "Project_Name\app\src\main\java\com\example\project_name" folder.
   4. place "" in "Project_Name\app\src\main\res\layout" folder.
-  5. You are resdy to go !
+  5. You are ready to go !
+
+![image](https://user-images.githubusercontent.com/62396592/116806423-84455d00-ab4a-11eb-9108-e368642e8269.png)
+
